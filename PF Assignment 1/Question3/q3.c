@@ -37,7 +37,7 @@ int main()
                         }
                         else if(medical=='n')
                         {
-                            printf("you need a medical fitness certificate");
+                            printf("you are not eligible");
                         }
                         else
                         {
@@ -77,4 +77,5 @@ int main()
     {
         printf("you are not eligible to drive");
     }
+
 }
